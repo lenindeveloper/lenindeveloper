@@ -8,6 +8,6 @@
 lenindeveloper/lenindeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi. I am **_Lenin Irungbam_**. I have completed my **Master in Computer Science** at NIT, Manipur. I am interested in learning new tech skills.
+Hi! I am **_Lenin Irungbam_**. I have completed my **Master in Computer Science** at NIT, Manipur. I am interested in learning new tech skills.
 I am eager to be challenged in order to grow and further improve my technical know-how benefit other people and organisations. I am currently
 **_Full Stack JavaScript Web Development_**.
