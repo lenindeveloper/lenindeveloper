@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lenindeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lenin Irungbam. I completed M.Tech in computer science and engineering from NIT, Manipur in 2022. I am from Manipur, India.
+- 👀 I’m interested in web development and in learning new tech skills.
+- 🌱 I’m currently learning a course on **Full Stack JavaScript** from _Ineuron_ under the instructor **__Hitesh Choudhary__** and **__Anurag Tiwari__**.
+
+- 💞️ If you want to collaborate with me, please feel free to contact me.
+- 📫 You can reach me out at __lenin15cs047@gmail.com__  
 
 <!---
 lenindeveloper/lenindeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
